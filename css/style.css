@@ -66,6 +66,12 @@ margin: 10px 20px 0 15px;
 border-left: 3px solid #d3d3d3;
 }
 
+#fb-comments {
+width:350px;
+padding:50px;
+float:left;
+}
+
 #footer {
 padding:50px;
 }
