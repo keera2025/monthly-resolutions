@@ -61,7 +61,9 @@ float:left;
 background-color: white;
 margin: 10px 20px 0 15px;
 }
-
+#sidebar img {
+border-radius: 300px;	
+}
 .verticalLine {
 border-left: 3px solid #d3d3d3;
 }
